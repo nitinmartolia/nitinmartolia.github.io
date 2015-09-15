@@ -4,10 +4,12 @@
 permalink:           pretty
 relative_permalinks: true
 
+highlighter:         pygments
+
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Nitin Martolia 
+tagline:             'Blog for things I learn'
+url:                 http://nitinmartolia.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +22,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Nitin Martolia
+  url:               https://twitter.com/Nitin_Martolia
+  email:             nitinmartolia@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/nitinmartolia/nitinmartolia.github.io
